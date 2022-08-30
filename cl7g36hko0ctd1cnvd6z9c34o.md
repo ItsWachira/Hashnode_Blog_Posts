@@ -43,9 +43,9 @@ The above four are the basic building blocks for a performant backend service.
 
 ## Setting Up Database and Initial NodeJs File
 Create a project folder on your machine.
-On your terminal, type > npm init to set up the project with basic details. 
+On your terminal, type npm init to set up the project with basic details. 
 
-Run the below command inside the folder.
+Run the command below inside the folder.
 
 
 ```
