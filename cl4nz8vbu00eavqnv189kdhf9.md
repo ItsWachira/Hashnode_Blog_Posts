@@ -3,12 +3,7 @@
 # Introduction
 Hello there, 
 
-This tutorial article falls under a series I will be writing on web development using python and javascript. For the next few weeks,  I will be sharing articles on different concepts utilizing the two tools.
-
-I am currently learning the two tools - doing python right now. 😁👌
-
-Today, we are going to look at how to send emails with Python using SMTP. Before we start, there are a few things I would like us to have:
-
+This tutorial article falls under a series I will be writing on web development using python and javascript. 
 Prerequisites:
 - Create two new email accounts with whichever email provider- google, yahoo, or Hotmail. I would recommend a google and a yahoo one- there are common obviously.😁😂
 
