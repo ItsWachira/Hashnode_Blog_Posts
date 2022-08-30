@@ -98,6 +98,8 @@ const db = new sqlite3.Database('./emp_database.db', (err) => {
  ## HTTP methods
 ### GET request
 
+The get request is an HTTP method that creates a route endpoint for us to get details about an employee by their ID.
+
 ```
 app.get("/employees/:id", (req, res, next) => {
     var params = [req.params.id]
@@ -111,7 +113,7 @@ app.get("/employees/:id", (req, res, next) => {
 });
 ``` 
 ### POST request
-After getting an employee by id, we need something by which we can insert an employee
+After getting an employee by id, we need to create a route endpoint in which we can insert employee details.
 
 
 ```
@@ -132,7 +134,7 @@ app.post("/employees/", (req, res, next) => {
 ``` 
 
 ### PUT request
-Now suppose we want to update the existing employee.
+Now suppose we want to update the existing employee data. We can create put endpoint route.
 
 ```
 app.patch("/employees/", (req, res, next) => {
