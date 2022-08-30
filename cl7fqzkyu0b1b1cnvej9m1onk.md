@@ -167,6 +167,10 @@ Let’s try a simple HTTP Post request with the Postman:
 ## Conclusion
 In this post, we learned about building a basic RestFul API with Flask. I hope this post, will help you to design a great RESTful API.
 
+Where do I go from here? Well, there are a lot more ways we could improve our current API; you could add bonus routes like PUT, UPDATE  and  DELETE. I will leave this to you as a challenge, have fun.
+
+Happy coding.👨‍💻😊
+
 
 
 
