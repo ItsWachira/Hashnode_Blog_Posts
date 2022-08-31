@@ -99,7 +99,7 @@ Some of the common concepts include:
 JSX stands for JavaScript XML. JSX allows us to put HTML into JavaScript.
 It is simply a syntax extension of React. It allows us to directly write HTML in React.
 
-React uses JSX for templating instead of regular JavaScript. It is not necessary to use it, however, the following are the advantages that come with it:
+React uses JSX for templating instead of regular JavaScript. 
 
 ### Components.
 Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. 
