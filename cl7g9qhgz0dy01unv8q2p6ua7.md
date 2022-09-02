@@ -159,7 +159,7 @@ They include:
 
 ---
 ## Conclusion
-This tutorial has covered some of the major concepts any beginner needs to know before starting out with learning react.
+This article has covered some of the major concepts any beginner needs to know before starting out with learning react.
 
 I am hoping that this article has given you an ideal picture of what to expect with react. I am still on the same learning journey, and some of the concepts I have mentioned above have helped me a great deal in learning and understanding front-end development with React.
 
