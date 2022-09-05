@@ -1,4 +1,4 @@
-## RESTful API: Build a Nodejs RESTful API with Express and SQLite3
+## Build a Nodejs RESTful API with Express and SQLite3
 
 # Introduction
 ## What is REST
