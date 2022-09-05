@@ -97,9 +97,7 @@ Some of the common concepts include:
 
 ### JSX.
 JSX stands for JavaScript XML. JSX allows us to put HTML into JavaScript.
-It is simply a syntax extension of React. It allows us to directly write HTML in React.
-
-React uses JSX for templating instead of regular JavaScript. 
+It is simply a syntax extension of React. It allows us to directly write HTML in React. React uses JSX for templating instead of regular JavaScript. 
 
 ### Components.
 Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. 
@@ -132,7 +130,7 @@ No, you don't. Focus on the main concepts. I am doing the same.👨‍💻😊
 ## Do I need to learn JavaScript before React?
 React is essentially a JavaScript library that prides itself on being "just JavaScript", if you're going to learn React, you will eventually need to become good at JavaScript as well.
 
-I am personally still learning JavaScript ( there are so many concepts to learn that I don't think any developer could say that they have finished learning a language ). Some developers would argue that it is possible to just "start" with React, then somehow work your way to learning Javascript. 
+I am personally still learning JavaScript ( there are so many concepts to learn that I don't think any developer could say they have exhausted them. This is because technology on its own is very  ). Some developers would argue that it is possible to just "start" with React, then somehow work your way to learning Javascript. 
 
 Does it work? I don't have a precise answer to this. We approach concepts in different ways and it's safe to say learning is by far, relative to each individual. 
 
@@ -163,6 +161,7 @@ This article has covered some of the major concepts any beginner needs to know b
 
 I am hoping that this article has given you an ideal picture of what to expect with react. I am still on the same learning journey, and some of the concepts I have mentioned above have helped me a great deal in learning and understanding front-end development with React.
 
+Happy coding.
 ---
 
 Thanks for reading! ❤️ 
