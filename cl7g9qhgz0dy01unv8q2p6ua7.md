@@ -106,7 +106,7 @@ Components are grouped into two types, Class components, and Function components
 
 ### Props and state
 **Props** - Props is short for properties and they are used to pass data between React components. In react, the data flow between components is uni-directional.
-w is State
+
  **State** - allows components to create and manage their own data.
 
 Props are used to pass data, whereas state is for managing data. Data from props is read-only, and cannot be modified by a component that is receiving it from outside. State data can be modified by its own component, but is private (cannot be accessed from outside)
