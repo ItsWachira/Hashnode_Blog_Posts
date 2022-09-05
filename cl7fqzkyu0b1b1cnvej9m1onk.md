@@ -1,4 +1,4 @@
-## RESTful API: Building a basic RESTful API with Flask-RESTful extension library.
+## Build a basic RESTful API with Flask-RESTful extension library.
 
 # Introduction
 [Flask](https://flask.palletsprojects.com/en/2.0.x/quickstart/) is a micro-framework built using python programming language. 
