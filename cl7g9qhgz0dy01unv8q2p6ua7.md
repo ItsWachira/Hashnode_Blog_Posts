@@ -130,17 +130,19 @@ No, you don't. Focus on the main concepts. I am doing the same.👨‍💻😊
 ## Do I need to learn JavaScript before React?
 React is essentially a JavaScript library that prides itself on being "just JavaScript", if you're going to learn React, you will eventually need to become good at JavaScript as well.
 
-I am personally still learning JavaScript ( there are so many concepts to learn that I don't think any developer could say they have exhausted them. This is because technology on its own is very  ). Some developers would argue that it is possible to just "start" with React, then somehow work your way to learning Javascript. 
+I am personally still learning JavaScript. There are so many concepts to learn that I don't think any developer could say they have exhausted all of them. This is because technology on its own is very dynamic: there is always a new tool x being built and shipped to the public.  For this reason, you have to keep learning, always.
 
-Does it work? I don't have a precise answer to this. We approach concepts in different ways and it's safe to say learning is by far, relative to each individual. 
-
-Therefore, learning is solely dependent on your choices and preferences.
+Some developers would argue that it is possible to just "start" with React, then somehow work your way to learning Javascript. Does it work? I don't have a precise answer to this. We approach concepts in different ways and it's safe to say learning is by far, relative to each individual. Therefore, learning is solely dependent on your choices and preferences.
 
 Nonetheless, the better you become at JavaScript, the better you will become at building things in React. 
 
 ## What React libraries should I use?
 
 There are a number of React libraries that can be used within your React projects. Each library has a set of unique functionality.
+
+> A library by definition is a set of prewritten code that describe particular functions that developers can use to optimize their code. 
+> Libraries make it easier to build products in a faster and much more efficient way. 
+> Libraries make it handy for developers to achieve complex functionality easily with fewer lines of code. 
 
 React is a library, not a framework. Many of the tools that will be required to build your projects are simply not available in React. React does not provide its own solution for writing styles, animating components, managing global app states, or creating routes or pages.
 
