@@ -45,7 +45,8 @@ npm install firebase
 ``` 
 Next, in your **src** folder, create a new JavaScript file and name it **firebase-config**.  Copy the environment variables in your firebase project dashboard and paste them into this file.
 
-![firebase-keys.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1668174125275/_gUWJ_70t.jpg align="left")
+![firebase-react-configuration-details.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1668582868741/pnr9waHZe.jpg align="left")
+
 
 The code file:
 
