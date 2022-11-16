@@ -1,4 +1,4 @@
-# How to Start Testing Your React Apps Using the React Testing Library and Jest
+# How to Start Testing Your React Apps Using the React Testing Library
 
 Testing is often seen as a tedious process. It's extra code you have to write, and in some cases, to be honest, it's not needed. But every developer should know at least the basics of testing. It increases confidence in the products they build, and for most companies, it's a requirement.
 
