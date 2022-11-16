@@ -527,10 +527,6 @@ Now, go to your GitHub repo that houses the project, click on the settings tab a
 Hurray there you go, you have built your own version of the mini google keep App using react.💡😊💖
 
 
-Here is the link to my completed version: 
-- [Google mini keeper App.](https://itswachira.github.io/MiniGoogleKeeperApp/)
-
-- [My GitHub repo for the code.](https://github.com/ItsWachira/MiniGoogleKeeperApp)
 
 ## Conclusion
 In this tutorial article, you have built a mini google Keep app using react js front-end framework. Please feel free to be creative with it and add your own custom features.
