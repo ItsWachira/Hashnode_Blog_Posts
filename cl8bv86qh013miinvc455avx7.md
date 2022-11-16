@@ -1,4 +1,4 @@
-## Build a minified google Keep App using React
+# Build a minified google Keep App using React
 
 # Introduction
 I am a big fan of google and its products. The world as we see it today has been largely shaped by the many amazing solutions google has designed, developed, and shipped. One of my personal favorites is [google Keep App](https://keep.google.com/u/0/) 
