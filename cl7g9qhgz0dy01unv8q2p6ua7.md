@@ -1,4 +1,4 @@
-## ReactJS: A complete beginner's guide on learning Reactjs.
+# A complete beginner's guide on learning Reactjs.
 
 ## Overview.
 If you want to learn  React, but you still aren't sure. You still have some questions, such as:
