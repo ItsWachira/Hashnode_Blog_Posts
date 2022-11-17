@@ -4,7 +4,7 @@ Testing is often seen as a tedious process. It's extra code you have to write, a
 
  React provides an amazing library called the react-testing-library which helps you test your React Apps more efficiently. You use it with Jest.
 
-In this article, we will see the 8 simple steps you can take to start testing your React Apps like a boss.
+In this article, we will see the simple steps you can take to start testing your React Apps.
 ## Prerequisites
 This tutorial assumes that you have at least a basic understanding of React. I will focus only on the testing part.
 
