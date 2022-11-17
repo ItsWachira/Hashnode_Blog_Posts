@@ -36,7 +36,13 @@ Follow the setup prompt to register your React app.
 Once your app is registered, Firebase will provide you with your project's environment variables. 
 
 ### Configure Firebase in Your React Application.
-Create a React application on your local machine. This article provides a detailed guide on **how to create a React application**. 
+Create a React application on your local machine. 
+Run this command to install react locally:
+
+```
+npx create-react-app your-app-name
+``` 
+
 
 After, creating your react app, open the folder in your IDE and install the Firebase package in your project folder.  Run this command to install it. 
 
